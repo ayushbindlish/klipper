@@ -1,5 +1,8 @@
 # Ender 3 V3 KE Klipper (Rebased Source Tree)
 
+## Orignal rebase tree taken from https://github.com/ElectricalBoy/Ender-3_V3_KE_Klipper.git
+
+
 Creality released the source code for Ender 3 V3 KE on [Jan. 10, 2024](https://www.reddit.com/r/Creality/comments/193615t).
 Because they decided to do it the horrible way, i.e., uploaded a simple dump of their current version _without_ the Git history
 nor the list of changes they've made, digging to find when they have started working on their version is close to impossible.
